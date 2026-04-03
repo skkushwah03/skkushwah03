@@ -1,6 +1,6 @@
 # 💫 About Me: 
 👋 Hi, I’m Saurabh Kumar<br><br>🎓 B.Tech CSE student | Minor degree- Robotics I 💻 Java & Full-Stack Developer | NPTEL Certified (Gold+ ELite) Programming in java |🚀 Aspiring Software Engineer<br>✨💫passion is my fashion 💫✨<br><br>👯 I’m looking to collaborate on:<br>Open-source projects in Java, Web Development, and Full-Stack applications.<br><br>🤝 I’m looking for help with:<br>Advanced backend architecture, system design, and scalable APIs.<br><br>🌱 I’m currently learning:<br>Data Structures & Algorithms in Java, AI concepts, and advanced full-stack development.<br><br>💬 Ask me about:<br>Java, DSA, HTML, CSS, JavaScript, React, Node.js, MongoDB, or building academic & real-world projects.<br><br>⚡ Fun fact:<br>I enjoy playing badminton 🏸 and painting 🎨 when I’m not coding!
- 
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100058584132689)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/s._k.kushwah/)
